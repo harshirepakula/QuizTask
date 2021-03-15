@@ -1,0 +1,49 @@
+{
+  "Quiz": [
+    {
+      "Question": "IOS stands for",
+      "MCQ Answer": [
+        "Internetwork Operating System",
+        "IPhone Operating System",
+        "Internet Operating System",
+        "None Of Them"
+      ]
+    },
+    {
+      "Question": "The IDE Used In Swift Is",
+      "MCQ Answer": [
+        "Swiftc",
+        "Gas",
+        "Xcode",
+        "Ld"
+      ]
+    },
+    {
+      "Question": "To create mutable object ___ is used",
+      "MCQ Answer": [
+        "let",
+        "var",
+        "Both A & B",
+        "None Of Them"
+      ]
+    },
+    {
+      "Question": "Which Of The Following Is Incorrect Data Type In SWIFT ?",
+      "MCQ Answer": [
+        "UInt",
+        "Double",
+        "Char",
+        "Optional"
+      ]
+    },
+    {
+      "Question": "Which Of The Following Framework Is Not Used In IOS ?",
+      "MCQ Answer": [
+        " UIKit Framework",
+        " AppKit Framework",
+        " Foundation Framework",
+        " CoreMotion Framework"
+      ]
+    }
+  ]
+}
